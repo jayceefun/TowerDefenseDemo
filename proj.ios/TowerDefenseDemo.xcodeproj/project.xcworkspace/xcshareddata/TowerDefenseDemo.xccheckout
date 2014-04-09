@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C735A9AE-0950-4B3A-B436-3C8693F1DA91</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TowerDefenseDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E66FEB3-EC89-4B74-885B-76261E8EDB70</key>
+		<string>https://github.com/jayceefun/TowerDefenseDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios/TowerDefenseDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E66FEB3-EC89-4B74-885B-76261E8EDB70</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jayceefun/TowerDefenseDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E66FEB3-EC89-4B74-885B-76261E8EDB70</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E66FEB3-EC89-4B74-885B-76261E8EDB70</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TowerDefenseDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
