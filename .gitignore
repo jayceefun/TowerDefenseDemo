@@ -6,3 +6,4 @@ proj.marmalade/
 proj.win32/
 proj.winrt/
 proj.wp8/
+*.DS_Store

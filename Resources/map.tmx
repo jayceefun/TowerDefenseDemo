@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tmw_desert_spacing" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../cocos2d-x-2.2.1/projects/TowerDefenseDemo/Resources/tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <layer name="background" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0TEKwDAMQ9Fcow0Y2kxp73+/aPZkcA2B/gcCaVZrAP7gUE6lB7u5Xe1SbmUEu7ldbSqP8ga7uV2Nf3P4N4d/c/g3Z/d/AQDANxYotRlR
+  </data>
+ </layer>
+</map>
